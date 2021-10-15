@@ -1,0 +1,5 @@
+package gym;
+
+public enum MEMBERSHIP_STATUS {
+    ACTIVE_MEMBER, OLD_MEMBER, NOT_A_MEMBER
+}
